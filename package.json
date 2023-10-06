@@ -1,5 +1,5 @@
 {
-  "name": "chromium",
+  "name": "@amiruldev/chromium",
   "repository": {
     "type": "git",
     "url": "https://github.com/amiruldev20/chromium"
